@@ -119,3 +119,4 @@ AnalyzerCache/
 
 # Unity 6.1 New Cache/Artifacts (if applicable)
 Artifacts/
+.vs/
