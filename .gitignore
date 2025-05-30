@@ -1,0 +1,121 @@
+# =============== #
+# Unity Generated #
+# =============== #
+
+[Ll]ibrary/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+*.pidb
+*.booproj
+*.svd
+
+# Visual Studio / Rider
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Mac-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ============ #
+# Unity Cache  #
+# ============ #
+
+# Shader cache
+*.shadercache
+*.cginc.meta
+*.hlsl.meta
+
+# Gradle & Android
+.gradle/
+*.apk
+*.aab
+*.dex
+*.apk.meta
+*.aab.meta
+*.dex.meta
+*.keystore
+
+# iOS build
+DerivedData/
+*.xcworkspace/
+*.xcodeproj/
+*.xcuserstate
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# ========== #
+# Other junk #
+# ========== #
+
+*.log
+*.diff
+*.patch
+*.orig
+*.rej
+
+# Crash reports
+sysinfo.txt
+
+# Asset pipeline cache
+Assets/**/AssetImportContext.json
+
+# JetBrains Rider-specific
+.idea/
+*.sln.iml
+
+# Yarn / npm (if used with WebGL)
+node_modules/
+
+# Unity Cloud Build
+[Uu]serSettings/UnityConnectSettings.asset
+
+# VS Code Workspace
+*.code-workspace
+
+# Rider Plugin
+*.DotSettings.user
+
+# Plastic SCM
+.plastic/
+*.plastic*
+
+# Addressables
+Assets/AddressableAssetsData/*/*.bin*
+Assets/AddressableAssetsData/*/*.bundle
+Assets/AddressableAssetsData/*/*.json
+Assets/AddressableAssetsData/*/*.hash
+Assets/AddressableAssetsData/*/*.link
+Assets/AddressableAssetsData/*/*.catalog
+Assets/AddressableAssetsData/*/*.info
+Assets/AddressableAssetsData/*/settings*.asset
+
+# Roslyn Analyzer Cache
+AnalyzerCache/
+
+# Unity 6.1 New Cache/Artifacts (if applicable)
+Artifacts/
